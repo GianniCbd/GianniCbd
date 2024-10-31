@@ -24,6 +24,7 @@ If you're curious to learn more about any of these, feel free to explore the rep
 ![JWT](https://camo.githubusercontent.com/6eff46a364eba690cb91a9f40084d97f96bf95699f3cb7722125dc1dc324fde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73)
 
 🧰 My languages
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
